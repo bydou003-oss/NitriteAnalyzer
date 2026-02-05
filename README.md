@@ -1,4 +1,4 @@
-# NitriteAnalyzer
+# NitriteAnalysis
 
 Android app for portable nitrite analysis (dual-mode colorimetric/fluorescence).
 
